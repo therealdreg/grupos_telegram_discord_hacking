@@ -1,6 +1,8 @@
 # grupos_telegram_discord_hacking
 Grupos de Telegram y Discord sobre hacking y seguridad informática en español
 
+# Telegram
+
 * inoffensivesec - https://t.me/inoffensivesec: Solo temas técnicos de reversing, exploiting, hardware, hacking, forensics, OS internals & malware. Offtopic = ban
 * AnnackSecurity IT - https://t.me/annackIT: Actualidad ciberseguridad, ciberterrorismo y OSINT. 
 * Bitup Alicante Oficial - https://t.me/bitupalicante: Comunidad y evento de ciberseguridad en Alicante
@@ -37,4 +39,7 @@ Grupos de Telegram y Discord sobre hacking y seguridad informática en español
 * Underc0de (Nuevos Bugs) - https://t.me/underc0deoficial: Grupo oficial de la comunidad Underc0de
 * Una al día - https://t.me/unaaldia: Canal de Telegram con las noticias diarias de UAD  
 * yoire.com - https://t.me/yoire
+
+# Discord
+
 

@@ -41,4 +41,4 @@ Grupos de Telegram y Discord sobre hacking y seguridad informática en español
 
 # Discord
 
-
+Please, PR

@@ -2,7 +2,8 @@ Grupos de Telegram y Discord sobre hacking y seguridad informática en español
 
 # Telegram
 
-* inoffensivesec - https://t.me/inoffensivesec: Solo temas técnicos de reversing, exploiting, hardware, hacking, forensics, OS internals & malware. Offtopic = ban
+* **inoffensivesec** - https://t.me/inoffensivesec: Solo temas técnicos de reversing, exploiting, hardware, hacking, forensics, OS internals & malware. Offtopic = ban
+
 * AnnackSecurity IT - https://t.me/annackIT: Actualidad ciberseguridad, ciberterrorismo y OSINT. 
 * Bitup Alicante Oficial - https://t.me/bitupalicante: Comunidad y evento de ciberseguridad en Alicante
 * Comunidad - Fwhibbit -  https://t.me/Fwhibbit: Grupo para poder resolver dudas y aprender sobre hacking. 

@@ -2,7 +2,7 @@ Grupos de Telegram y Discord sobre hacking y seguridad informática en español
 
 # Telegram
 
-** Hardware Hacking Español, IOT, SCADA ...** - https://t.me/+PQ_Ql9SV5pAyN2U0
+* **Hardware Hacking** Español, IOT, SCADA ... - https://t.me/+PQ_Ql9SV5pAyN2U0
 
 * **inoffensivesec** - https://t.me/inoffensivesec: Solo temas técnicos de reversing, exploiting, hardware, hacking, forensics, OS internals & malware. Offtopic = ban
 

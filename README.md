@@ -1,14 +1,14 @@
 Grupos de Telegram y Discord sobre hacking y seguridad informática en español
 
-# Telegram
+# The best
 
-The best:
+* **Telegram Hardware Hacking ES** Español, IOT, SCADA ...: https://t.me/hardwarehackinges
 
-* **Hardware Hacking** Español, IOT, SCADA ... - https://t.me/hardwarehackinges
-
-* **inoffensivesec** - https://t.me/inoffensivesec: Solo temas técnicos de reversing, exploiting, hardware, hacking, forensics, OS internals & malware. Offtopic = ban
+* **Discord Hardware Hacking ES**: https://discord.gg/wkWr6Dj46D
 
 ## Others:
+
+* **inoffensivesec** - https://t.me/inoffensivesec: Solo temas técnicos de reversing, exploiting, hardware, hacking, forensics, OS internals & malware. Offtopic = ban
 
 * AnnackSecurity IT - https://t.me/annackIT: Actualidad ciberseguridad, ciberterrorismo y OSINT. 
 * Bitup Alicante Oficial - https://t.me/bitupalicante: Comunidad y evento de ciberseguridad en Alicante

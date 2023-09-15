@@ -2,9 +2,9 @@ Grupos de Telegram y Discord sobre hacking y seguridad informática en español
 
 # The best
 
-* **Telegram Hardware Hacking ES** Español, IOT, SCADA ... - https://t.me/hardwarehackinges
+* **Telegram Hardware Hacking ES**: CAR HACKING, IOT, SCADA ... - https://t.me/hardwarehackinges
 
-* **Discord Hardware Hacking ES**: - https://discord.gg/wkWr6Dj46D
+* **Discord Hardware Hacking ES**: CAR HACKING, IOT, SCADA ... - https://discord.gg/wkWr6Dj46D
 
 ## Others:
 

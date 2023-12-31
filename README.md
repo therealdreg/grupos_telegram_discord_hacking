@@ -6,6 +6,8 @@ Grupos de Telegram y Discord sobre hacking y seguridad informática en español
 
 * **Discord Hardware Hacking ES**: CAR HACKING, IOT, SCADA ... - https://discord.gg/wkWr6Dj46D
 
+* **Telegram Comunidad de malware & research (temas ilegales=ban)**: https://malwaredev.com
+
 ## Others:
 
 * **inoffensivesec** - https://t.me/inoffensivesec : Solo temas técnicos de reversing, exploiting, hardware, hacking, forensics, OS internals & malware. Offtopic = ban

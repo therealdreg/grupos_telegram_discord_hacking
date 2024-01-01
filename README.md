@@ -8,6 +8,9 @@ Grupos de Telegram y Discord sobre hacking y seguridad informática en español
 
 * **Telegram Comunidad de malware & research (temas ilegales=ban)**: https://t.me/malwaredevcom
 
+* **Discord Comunidad de malware & research (temas ilegales=ban)**: https://discord.gg/Hp8eQQ5Hjs
+
+
 ## Others:
 
 * AnnackSecurity IT - https://t.me/annackIT: Actualidad ciberseguridad, ciberterrorismo y OSINT. 

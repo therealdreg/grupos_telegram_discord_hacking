@@ -48,7 +48,12 @@ Grupos de Telegram y Discord sobre hacking y seguridad informática en español
 * Underc0de (Nuevos Bugs) - https://t.me/underc0deoficial: Grupo oficial de la comunidad Underc0de
 * Una al día - https://t.me/unaaldia: Canal de Telegram con las noticias diarias de UAD  
 * yoire.com - https://t.me/yoire
+* SkullNet - https://t.me/SkullNetOperators - Grupo Hispano de Ciberseguridad, Pentesting, Red Team y cualquier otra disciplina.
+
 
 # Discord
 
+* SkullNet - https://discord.gg/hnHD9KPRS5 - Grupo Hispano de Ciberseguridad, Pentesting, Red Team y cualquier otra disciplina.
+
 Please, PR
+
